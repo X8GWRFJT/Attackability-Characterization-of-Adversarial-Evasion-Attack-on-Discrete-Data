@@ -1,6 +1,6 @@
 # Attackability Characterization of Adversarial Evasion Attackon Discrete Data
 
-## Introduction
+
 
 Source codes for experimental study of the paper **Attackability Characterization of Adversarial Evasion Attackon Discrete Data**.
 
