@@ -1,4 +1,4 @@
-# (KDD 2020) Attackability Characterization of Adversarial Evasion Attackon Discrete Data
+# Attackability Characterization of Adversarial Evasion Attackon Discrete Data
 
 
 
